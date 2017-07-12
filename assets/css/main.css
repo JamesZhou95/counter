@@ -9,7 +9,6 @@
 
 /* Reset */
 
-<<<<<<< HEAD
 #hide{
     display:none;
 }
@@ -30,8 +29,6 @@
   stroke-width: 1;
 }
 
-=======
->>>>>>> origin/master
 #countup h3 {
 display: inline-block;
 padding: 5px;
@@ -312,12 +309,8 @@ margin: 0 0 20px;
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-<<<<<<< HEAD
 		font-family: "Source Sans Pro","Microsoft YaHei", "微软雅黑", 
              STXihei, "华文细黑", Helvetica, sans-serif;
-=======
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
->>>>>>> origin/master
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
