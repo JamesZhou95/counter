@@ -9,6 +9,26 @@
 
 /* Reset */
 
+#hide{
+    display:none;
+}
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: white;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
 #countup h3 {
 display: inline-block;
 padding: 5px;
@@ -289,7 +309,8 @@ margin: 0 0 20px;
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Source Sans Pro","Microsoft YaHei", "微软雅黑", 
+             STXihei, "华文细黑", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
